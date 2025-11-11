@@ -13,5 +13,5 @@
 ## 🚀 Representative Project
 
 ### 🥭 [MangoPuree](https://github.com/kimdk121/mango_puree)
-> 실무형 백엔드 템플릿 프로젝트  
+> 개인 백엔드 템플릿 프로젝트  
 > 견적서 자동화, 배치 기반 영상 수집, 모니터링 등 **운영 가능한 백엔드 아키텍처 구현**
